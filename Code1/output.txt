@@ -1,0 +1,13 @@
+For 1 term, approximate value: 1.00000000
+For 2 term, approximate value : 0.55586780
+For 2 term, truncation error: 5.91427820
+For 3 term, approximate value : 0.58874337
+For 3 term, truncation error: 0.16533631
+For 4 term, approximate value : 0.58776996
+For 4 term, truncation error: 0.00262689
+For 5 term, approximate value : 0.58778540
+For 5 term, truncation error: 0.00002593
+For 6 term, approximate value : 0.58778525
+For 6 term, truncation error: 0.00000017
+Number of terms required : 6
+Approximate value: 0.58778525
